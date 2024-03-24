@@ -117,7 +117,7 @@
 &lt 3 LEFT_SHIFT  &kp A   &kp S         &kp D      &kp F      &kp G          &kp H          &kp J        &kp K      &kp L            &kp SEMI  &kp SQT
 &kp CAPSLOCK      &kp Z   &kp X         &kp C      &kp V      &kp B          &kp N          &kp M        &kp COMMA  &kp DOT          &kp FSLH  &kp NON_US_BACKSLASH
                           &kp LGUI      &kp GRAVE  &kp SPACE  &kp BACKSPACE  &kp PAGE_DOWN  &kp DELETE   &kp LBKT   &kp RBKT
-                          &kp LEFT_ALT  &kp HOME   &kp LCTRL  &kp ENTER      &kp ESC        &kp PAGE_UP  &kp END    &kp PRINTSCREEN
+                          &kp LEFT_ALT  &kp HOME   &kp LCTRL  &kp ENTER      &tog 3         &kp PAGE_UP  &kp END    &kp PRINTSCREEN
             >;
         };
 
